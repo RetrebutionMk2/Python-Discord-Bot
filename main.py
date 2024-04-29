@@ -167,7 +167,7 @@ async def rule(ctx):
 '''
 
 try:
-  token = 'ODc1MjI4NzE2Njk4MDU4ODAy.Ge_5H6.t9dmxO3DZDRZAGQB5CxsljJHcYhMDLVJfOVthk'
+  token = ''
   if token == "":
       raise Exception("Please add your token to the Secrets pane.")
   bot.run(token)
