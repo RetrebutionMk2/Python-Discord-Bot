@@ -1,0 +1,47 @@
+{
+    "797354179857350656": {
+        "balance": 9996456500.0,
+        "oil": 5005,
+        "storage": {
+            "limit": 1000001000,
+            "drum": 1,
+            "barrel": 0,
+            "tanker": 1,
+            "big tanker": 0,
+            "large tanker": 0,
+            "extra large tanker": 0,
+            "mega tanker": 0,
+            "legendary tanker": 0
+        }
+    },
+    "1237855727880503360": {
+        "balance": 0,
+        "oil": 0,
+        "storage": {
+            "limit": 1000,
+            "drum": 0,
+            "barrel": 0,
+            "tanker": 0,
+            "big tanker": 0,
+            "large tanker": 0,
+            "extra large tanker": 0,
+            "mega tanker": 0,
+            "legendary tanker": 0
+        }
+    },
+    "738434699021778945": {
+        "balance": 1000000000,
+        "oil": 0,
+        "storage": {
+            "limit": 1000,
+            "drum": 0,
+            "barrel": 0,
+            "tanker": 1,
+            "big tanker": 0,
+            "large tanker": 0,
+            "extra large tanker": 0,
+            "mega tanker": 0,
+            "legendary tanker": 0
+        }
+    }
+}

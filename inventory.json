@@ -1,0 +1,74 @@
+{
+    "797354179857350656": {
+        "Hand Pumps": {
+            "basic manual hand pump": 0,
+            "advanced manual hand pump": 0,
+            "elite manual hand pump": 0,
+            "ultra manual hand pump": 0
+        },
+        "Pumpjacks": {
+            "basic pumpjack": 1,
+            "advanced pumpjack": 1,
+            "elite pumpjack": 1,
+            "ultra pumpjack": 1
+        },
+        "Storage": {
+            "drum": 1,
+            "barrel": 0,
+            "tanker": 1,
+            "big tanker": 0,
+            "large tanker": 0,
+            "extra large tanker": 0,
+            "mega tanker": 0,
+            "legendary tanker": 0
+        }
+    },
+    "1237855727880503360": {
+        "Hand Pumps": {
+            "basic manual hand pump": 1,
+            "advanced manual hand pump": 0,
+            "elite manual hand pump": 0,
+            "ultra manual hand pump": 0
+        },
+        "Pumpjacks": {
+            "basic pumpjack": 0,
+            "advanced pumpjack": 0,
+            "elite pumpjack": 0,
+            "ultra pumpjack": 0
+        },
+        "Storage": {
+            "drum": 1,
+            "barrel": 0,
+            "tanker": 0,
+            "big tanker": 0,
+            "large tanker": 0,
+            "extra large tanker": 0,
+            "mega tanker": 0,
+            "legendary tanker": 0
+        }
+    },
+    "738434699021778945": {
+        "Hand Pumps": {
+            "basic manual hand pump": 1,
+            "advanced manual hand pump": 0,
+            "elite manual hand pump": 0,
+            "ultra manual hand pump": 0
+        },
+        "Pumpjacks": {
+            "basic pumpjack": 0,
+            "advanced pumpjack": 0,
+            "elite pumpjack": 0,
+            "ultra pumpjack": 1
+        },
+        "Storage": {
+            "drum": 1,
+            "barrel": 0,
+            "tanker": 1,
+            "big tanker": 0,
+            "large tanker": 0,
+            "extra large tanker": 0,
+            "mega tanker": 0,
+            "legendary tanker": 0
+        }
+    }
+}
